@@ -1,0 +1,13 @@
+Bu proje;
+Yönetim Biliþim Sistemleri Uzman Sistemler ödevi için yapýlmýþtýr.
+
+Projenin Çalýþtýrýlabilmesi için gerekenler:
+*Java IDE(Netbeans Kullanýldý. Farklý IDE'ler sorun çýkarabilir.)
+*Proje dosyalarýnda Kütüphaneler kýsmýnda JDBC kütüphanesi bulunmalý(Sizde eklenmemiþ görülebilir.)
+*Sql dosyasý için gerekli klasörden seçilip "Restore" edilmeli.
+*Veritabaný baðlantýsý gerçekleþtirmek için services kýsmýndan gerekli ayarlamalar yapýlmalý.
+					
+
+				
+
+									ALÝ OÐULCAN GÜMÜÞSOY 
